@@ -43,12 +43,9 @@
    
     printf("a populacao é:%d\n" ,populacao);
     
-    printf("area é:%.2f metros km\n",area);
-   
-   
-    printf("o PIB é:%f\n" ,pib);
-   
-    printf("numeros de pontos turisticos é:%d\n" ,pontos_turisticos);
+     printf("area é:%.2f metros km\n",area);
+     printf("o PIB é:%f\n" ,pib);
+     printf("numeros de pontos turisticos é:%d\n" ,pontos_turisticos);
 
 
     ;}
